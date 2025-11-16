@@ -1,0 +1,9 @@
+Customer Churn Analysis - Key Insights
+========================================
+
+• Overall churn rate: 47.20%
+• Churn rate by gender: {'F': 0.48148148148148145, 'M': 0.4620123203285421}
+• Churn rate by income: {'High': 0.36962750716332377, 'Low': 0.6123076923076923, 'Medium': 0.44171779141104295}
+• Churn rate by marital status: {'Divorced': 0.5443548387096774, 'Married': 0.41379310344827586, 'Single': 0.5116279069767442, 'Widowed': 0.4311594202898551}
+• Average monthly charges - Churned: $52.37, Retained: $56.28
+• Average tenure - Churned: 24.7 months, Retained: 20.4 months

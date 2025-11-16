@@ -1,0 +1,12 @@
+Age
+Gender
+MaritalStatus
+IncomeLevel
+MonthlyCharges
+Tenure
+TotalCharges
+Contract
+InternetService
+OnlineSecurity
+TechSupport
+PaymentMethod

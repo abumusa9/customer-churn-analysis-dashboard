@@ -1,8 +1,7 @@
-#!/home/abdussalam/Documents/DataScience/churn_analysis/churn_analysis_system/churn_analysis/churn_api/venv/bin/python3
-# -*- coding: utf-8 -*-
-import re
+#!/workspaces/customer-churn-analysis-dashboard/churn_api/venv/bin/python
 import sys
 from numpy.f2py.f2py2e import main
 if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
     sys.exit(main())

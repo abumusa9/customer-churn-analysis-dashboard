@@ -1,4 +1,4 @@
-#!/home/abdussalam/Documents/DataScience/churn_analysis/churn_analysis_system/churn_analysis/churn_api/venv/bin/python3
+#!/workspaces/customer-churn-analysis-dashboard/churn_api/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

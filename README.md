@@ -2,32 +2,32 @@
 
 ## Overview
 
-This project presents a comprehensive customer churn analysis system that demonstrates advanced AI engineering capabilities through the integration of machine learning, backend API development, and interactive frontend visualization. The system is designed to predict customer churn probability and provide actionable insights for business decision-making.
+I use Lloyds Banking Group Dataset through Forage Job simulation. This project presents a comprehensive customer churn analysis system that demonstrates advanced AI engineering capabilities through the integration of machine learning, backend API development, and interactive frontend visualization. The system is designed to predict customer churn probability and provide actionable insights for business decision-making.  
 
 ## Features
 
-### 🔍 Data Analysis & Visualization
+### Data Analysis & Visualization
 - Comprehensive exploratory data analysis with statistical insights
 - Interactive charts and visualizations using Recharts
 - Real-time analytics dashboard with key performance indicators
 
-### 🤖 Machine Learning Models
+### Machine Learning Models
 - Multiple ML algorithms: Logistic Regression, Random Forest, Gradient Boosting
 - Model comparison and selection based on ROC AUC performance
 - Feature importance analysis for interpretability
 
-### 🚀 Backend API
+### Backend API
 - RESTful API built with Flask
 - CORS-enabled for seamless frontend integration
 - Endpoints for prediction, analytics, and customer data
 
-### 💻 Interactive Frontend
+### Interactive Frontend
 - Modern React application with responsive design
 - Real-time churn prediction interface
 - Advanced analytics dashboard with multiple visualizations
 - Customer database browser with pagination
 
-### 📊 Key Metrics
+### Key Metrics
 - Overall churn rate: 47.2%
 - Model accuracy: 85.4% (Gradient Boosting)
 - ROC AUC Score: 0.854
@@ -55,36 +55,6 @@ This project presents a comprehensive customer churn analysis system that demons
 - **matplotlib**: Static plotting
 - **seaborn**: Statistical data visualization
 - **openpyxl**: Excel file processing
-
-## Project Structure
-
-```
-churn_analysis/
-├── churn_api/                 # Flask backend application
-│   ├── src/
-│   │   ├── routes/
-│   │   │   ├── churn.py      # Churn prediction API routes
-│   │   │   └── user.py       # User management routes
-│   │   ├── models/           # Database models
-│   │   ├── static/           # Frontend build files
-│   │   ├── main.py           # Flask application entry point
-│   │   ├── churn_prediction_model.joblib  # Trained ML model
-│   │   ├── scaler.joblib     # Feature scaler
-│   │   └── enhanced_customer_data.csv     # Dataset
-│   ├── venv/                 # Python virtual environment
-│   └── requirements.txt      # Python dependencies
-├── churn-dashboard/          # React frontend application
-│   ├── src/
-│   │   ├── components/       # React components
-│   │   ├── App.jsx          # Main application component
-│   │   └── main.jsx         # Application entry point
-│   ├── dist/                # Production build
-│   └── package.json         # Node.js dependencies
-├── data_exploration.py       # EDA script
-├── model_development.py      # ML model training script
-├── eda_visualizations.png    # Exploratory data analysis plots
-└── README.md                # Project documentation
-```
 
 ## Installation & Setup
 
@@ -130,8 +100,7 @@ cd churn-dashboard
 pnpm install
 ```
 
-3. Start the development server:
-```bash
+3. Start the development server```bash
 pnpm run dev
 ```
 

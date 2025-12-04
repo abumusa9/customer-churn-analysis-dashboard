@@ -9,6 +9,28 @@ from src.routes.user import user_bp
 from src.routes.churn import churn_bp
 from flask_cors import CORS
 
+ARTIFACTS = {
+    "src/churn_prediction_model.joblib":
+        "https://github.com/abumusa9/customer-churn-analysis-dashboard/releases/download/model/churn_prediction_model.joblib",
+    "src/scaler.joblib":
+        "https://github.com/abumusa9/customer-churn-analysis-dashboard/releases/download/model/scaler.joblib"
+}
+
+def ensure_artifacts():
+    """Download model + scaler automatically if missing."""
+    for path, url in ARTIFACTS.items():
+        if not os.path.exists(path):
+            print(f"Downloading {os.path.basename(path)} ...")
+            r = requests.get(url)
+            r.raise_for_status()
+            os.makedirs(os.path.dirname(path), exist_ok=True)
+            with open(path, "wb") as f:
+                f.write(r.content)
+
+# Ensure model + scaler BEFORE loading Flask
+ensure_artifacts()
+
+
 app = Flask(__name__, static_folder=os.path.join(os.path.dirname(__file__), 'static'))
 app.config['SECRET_KEY'] = 'asdf#FGSgvasgf$5$WGT'
 

@@ -1,4 +1,7 @@
 # Customer Churn Analysis System
+# 📺 Project Demo Video (Click to Watch)
+
+[![Watch the demo](https://img.youtube.com/vi/AfTrd-zk_48/maxresdefault.jpg)](https://youtu.be/AfTrd-zk_48)
 
 ## Overview
 

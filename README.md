@@ -1,5 +1,12 @@
 # Customer Churn Analysis System
 
+# Project Demo Video
+
+Click the thumbnail below to watch the full demo:
+
+[![Watch the demo](https://img.youtube.com/vi/-uQeEqJfTz0/maxresdefault.jpg)](https://abumusalab.com.ng/customer-churn-analysis-dashboard/)
+
+
 ## Overview
 
 This project presents a comprehensive customer churn analysis system that demonstrates advanced AI engineering capabilities through the integration of machine learning, backend API development, and interactive frontend visualization. The system is designed to predict customer churn probability and provide actionable insights for business decision-making.
@@ -337,9 +344,3 @@ The system achieves an impressive 85.4% ROC AUC score while providing actionable
 The project showcases proficiency in full-stack development, machine learning engineering, and business intelligence - essential skills for modern AI practitioners and data scientists.
 
 ---
-
-**Author**: Manus AI  
-**Version**: 1.0.0  
-**Last Updated**: July 31, 2025  
-**License**: MIT
-

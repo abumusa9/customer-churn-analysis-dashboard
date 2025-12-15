@@ -1,0 +1,58 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+venv/
+env/
+.venv/
+.python_packages/
+*.sqlite3
+
+# -------------------------
+# Node / React
+# -------------------------
+node_modules/
+dist/
+build/
+.vite/
+*.log
+
+# -------------------------
+# Machine Learning
+# -------------------------
+
+
+*.model
+*.h5
+*.ckpt
+
+# -------------------------
+# Data files
+# -------------------------
+
+*.xlsx
+/data/
+datasets/
+
+# -------------------------
+# Flask static (React production build)
+# -------------------------
+churn_api/src/static/*
+!churn_api/src/static/.gitkeep
+
+# -------------------------
+# IDE / system files
+# -------------------------
+.vscode/
+.idea/
+*.swp
+
+# -------------------------
+# Archives
+# -------------------------
+*.tar.gz

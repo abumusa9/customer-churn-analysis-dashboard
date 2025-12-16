@@ -1,10 +1,12 @@
-# Customer Churn Analysis System
-# 📺 Project Demo Video (Click to Watch)
+## Customer Churn Analysis System
+### 📺 Project Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/-uQeEqJfTz0/0.jpg)](https://youtu.be/-uQeEqJfTz0)
+Click the image below to watch the full demo on YouTube 👇
+
+[![Customer Churn Analysis Demo](https://img.youtube.com/vi/-uQeEqJfTz0/maxresdefault.jpg)](https://youtu.be/-uQeEqJfTz0)
 
 
-## Overview
+### Overview
 
 I use Lloyds Banking Group Dataset through Forage Job simulation. This project presents a comprehensive customer churn analysis system that demonstrates advanced AI engineering capabilities through the integration of machine learning, backend API development, and interactive frontend visualization. The system is designed to predict customer churn probability and provide actionable insights for business decision-making.  
 

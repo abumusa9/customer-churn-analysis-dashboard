@@ -1,9 +1,11 @@
 ## Customer Churn Analysis System
 ### 📺 Project Demo Video
 
-Click the image below to watch the full demo on YouTube 👇
-
-[![Customer Churn Analysis Demo](Gradient_Boosting_feature_importance.png)](https://youtu.be/-uQeEqJfTz0)
+<p align="center">
+  <a href="https://youtu.be/-uQeEqJfTz0">
+    <img src="docs/Customer-Churn-Analysis-Dashboard-Image.png" alt="Customer Churn Analysis Demo" width="850">
+  </a>
+</p>
 
 
 ### Overview

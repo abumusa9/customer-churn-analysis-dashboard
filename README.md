@@ -1,7 +1,7 @@
 # Customer Churn Analysis System
 # 📺 Project Demo Video (Click to Watch)
 
-[![Watch the demo](https://img.youtube.com/vi/AfTrd-zk_48/maxresdefault.jpg)](https://abumusalab.com.ng/customer-churn-analysis-dashboard/)
+[![Watch the demo](https://img.youtube.com/vi/-uQeEqJfTz0/hqdefault.jpg)](https://abumusalab.com.ng/customer-churn-analysis-dashboard/)
 
 ## Overview
 

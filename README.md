@@ -3,7 +3,11 @@
 
 <p align="center">
   <a href="https://youtu.be/-uQeEqJfTz0">
-    <img src="docs/Customer-Churn-Analysis-Dashboard-Image.png" alt="Customer Churn Analysis Demo" width="850">
+    <img
+      src="https://raw.githubusercontent.com/abumusa9/customer-churn-analysis-dashboard/master/docs/Customer-Churn-Analysis-Dashboard-Image.png"
+      alt="Customer Churn Analysis Demo"
+      width="850"
+    />
   </a>
 </p>
 

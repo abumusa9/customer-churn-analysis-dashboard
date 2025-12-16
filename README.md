@@ -3,7 +3,7 @@
 
 Click the image below to watch the full demo on YouTube 👇
 
-[![Customer Churn Analysis Demo](https://img.youtube.com/vi/-uQeEqJfTz0/maxresdefault.jpg)](https://youtu.be/-uQeEqJfTz0)
+[![Customer Churn Analysis Demo](Gradient_Boosting_feature_importance.png)](https://youtu.be/-uQeEqJfTz0)
 
 
 ### Overview

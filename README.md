@@ -1,11 +1,9 @@
 ## Customer Churn Analysis System
+
 ### Project Demo Video
 
-<p align="center">
-  <a href=" https://abumusalab.com.ng/customer-churn-analysis-dashboard/">
-    Customer Churn Analysis Demo
-  </a>
-</p>
+Click the link below to watch the full demo👇
+[Customer Churn Analysis System](https://abumusalab.com.ng/customer-churn-analysis-dashboard/)
 
 
 ### Overview

@@ -2,7 +2,7 @@
 
 ### Project Demo Video
 
-Click the link below to watch the full demo👇
+Click the link to watch the full demo -->
 [Customer Churn Analysis System](https://abumusalab.com.ng/customer-churn-analysis-dashboard/)
 
 
